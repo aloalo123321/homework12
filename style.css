@@ -1,0 +1,25 @@
+table, th{
+    border-collapse: collapse;
+    background-color: green;;
+
+}
+.first{
+    background-color: white;
+    text-align: center;
+}
+
+th{
+    color: white;
+}
+.second{
+    background-color: antiquewhite;
+    text-align: center;
+    color: green;
+}
+.third{
+    background-color: white;
+    text-align: center;
+}
+table , th{
+    border-radius: 10px;
+}
